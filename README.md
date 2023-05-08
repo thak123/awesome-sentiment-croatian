@@ -1,1 +1,11 @@
-# awesome-sentiment-croatian
+# My Awesome Sentiment (South Slavic Languages)
+
+- ## Datasets
+  - 
+- ## Models
+  - 
+
+- ## Publications
+  - 
+
+ 
