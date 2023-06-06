@@ -1,4 +1,4 @@
-# My Awesome Sentiment (South Slavic Languages)
+# Awesome Sentiment (South Slavic Languages)
 
 - ## Datasets
   - 
